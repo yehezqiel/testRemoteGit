@@ -10,5 +10,6 @@ package com.qq.a;
  */
 
 public class A {
+    private String name;
     
 }
