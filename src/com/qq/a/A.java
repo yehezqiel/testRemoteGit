@@ -8,6 +8,7 @@ package com.qq.a;
  *
  * @author Kiki
  */
+
 public class A {
     
 }
